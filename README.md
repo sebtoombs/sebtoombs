@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi, I'm Seb 👋
 
-<!--
-**sebtoombs/sebtoombs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm a full-stack developer working in Hobart, Australia!**
 
-Here are some ideas to get you started:
+I'm currently:
+- :rocket: Launching [Feedbackable.io](https://feedbackable.io)
+- :pencil2: Blogging [nimblewebdeveloper.com](https://nimblewebdeveloper.com)
+- :seedling: Always learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Bio:
+- :gear: I use daily: `js`, `react`, `html`, `css`, `figma`, `php` and... `wordpress`
+- :computer: Lead developer @ KingsDesign (agency)
+- :mailbox: Reach me: [@baffledbasti](https://twitter.com/baffledbasti) on Twitter
+- :zap: Fun fact: I like sharing "fun facts" with anyone in the vicinity too often
