@@ -1,13 +1,8 @@
 ### Hi, I'm Seb 👋
 
-**I'm a front-end ish, software engineer developer working in Hobart, Australia!**
+**I'm a front-end ish, software engineer working in Hobart, Australia!**
 
 Say hi! [hey.sebtoombs.com](https://hey.sebtoombs.com)
-
-I'm currently:
-- :rocket: Building [Feedbackable.io](https://feedbackable.io)
-- :pencil2: Blogging [nimblewebdeveloper.com](https://nimblewebdeveloper.com)
-- :seedling: Always learning
 
 Bio:
 - :gear: I use daily: `js`, `react`, `html`, `css`, `figma`, `php` and... `wordpress` (and `angular`)
