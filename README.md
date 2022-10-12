@@ -1,6 +1,6 @@
 ### Hi, I'm Seb 👋
 
-**I'm a front-end ish, software engineer working in Hobart, Australia!**
+**Staff Software Engineer at [mx51](https://mx51.io)!**
 
 Say hi! [hey.sebtoombs.com](https://hey.sebtoombs.com)
 
